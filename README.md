@@ -18,3 +18,11 @@ O objetivo do projeto é organizar informações e estratégias que podem ajudar
 * Inglês
 * Informática
 * Design Profissional
+
+### Método de Estudos
+
+* Organizar as matérias por prioridade.
+* Criar um horário de estudos.
+* Fazer resumos dos conteúdos.
+* Revisar o conteúdo regularmente.
+* Praticar exercícios.
