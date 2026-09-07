@@ -76,5 +76,25 @@ O objetivo do projeto é organizar informações e estratégias que podem ajudar
 
 \* Google Docs
 
+# 
+
+# &#x20;Conclusão
+
+
+
+A utilização do Git e GitHub permite que todos os integrantes trabalhem no mesmo projeto e acompanhem o histórico das alterações realizadas por cada pessoa.
+
+
+
+# &#x20;Integrantes
+
+\* Felipe Quast
+
+\* Enzo Hilário
+
+\* Alisson Flosi
+
+\* Henrique Sousa
+
 
 
