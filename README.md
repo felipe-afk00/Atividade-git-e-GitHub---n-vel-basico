@@ -62,3 +62,19 @@ O objetivo do projeto é organizar informações e estratégias que podem ajudar
 
 \* Revisar os conteúdos antes das avaliações.
 
+
+
+
+
+# &#x20;Ferramentas
+
+\* Git
+
+\* GitHub
+
+\* Visual Studio Code
+
+\* Google Docs
+
+
+
