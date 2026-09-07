@@ -50,3 +50,15 @@ O objetivo do projeto é organizar informações e estratégias que podem ajudar
 
 
 
+# Dicas de Estudo
+
+
+
+\* Evitar distrações durante os estudos.
+
+\* Fazer pequenas pausas.
+
+\* Manter o material organizado.
+
+\* Revisar os conteúdos antes das avaliações.
+
