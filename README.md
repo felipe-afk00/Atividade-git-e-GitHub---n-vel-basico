@@ -13,6 +13,7 @@ Este projeto foi desenvolvido em equipe para a atividade de Design Profissional,
 O objetivo do projeto é organizar informações e estratégias que podem ajudar estudantes a melhorar sua rotina de estudos.
 
 ### Disciplinas
+
 * Português
 * Matemática
 * Inglês
@@ -26,3 +27,26 @@ O objetivo do projeto é organizar informações e estratégias que podem ajudar
 * Fazer resumos dos conteúdos.
 * Revisar o conteúdo regularmente.
 * Praticar exercícios.
+
+
+
+### Cronograma
+
+
+
+| Dia     | Atividade   |
+
+| ------- | ----------- |
+
+| Segunda | Matemática  |
+
+| Terça   | Português   |
+
+| Quarta  | Informática |
+
+| Quinta  | Inglês      |
+
+| Sexta   | Revisão     |
+
+
+
