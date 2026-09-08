@@ -7,9 +7,6 @@
 Este projeto foi desenvolvido em equipe para a atividade de Design Profissional, utilizando Git e GitHub para praticar controle de versão e colaboração.
 
 ### Objetivo
-
-
-
 O objetivo deste projeto é organizar estratégias práticas para rotinas de estudo.
 
 ### Disciplinas
@@ -95,6 +92,4 @@ A utilização do Git e GitHub permite que todos os integrantes trabalhem no mes
 \* Alisson Flosi
 
 \* Henrique Sousa
-
-
 
