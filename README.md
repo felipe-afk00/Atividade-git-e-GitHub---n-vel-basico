@@ -10,7 +10,7 @@ Este projeto foi desenvolvido em equipe para a atividade de Design Profissional,
 
 
 
-O objetivo do projeto é organizar informações e estratégias que podem ajudar estudantes a melhorar sua rotina de estudos.
+O objetivo deste projeto é organizar estratégias práticas para rotinas de estudo.
 
 ### Disciplinas
 
