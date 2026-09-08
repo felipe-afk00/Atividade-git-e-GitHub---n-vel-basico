@@ -7,10 +7,7 @@
 Este projeto foi desenvolvido em equipe para a atividade de Design Profissional, utilizando Git e GitHub para praticar controle de versão e colaboração.
 
 ### Objetivo
-
-
-
-O objetivo é otimizar o tempo e as táticas de estudo dos alunos de tecnologia
+O objetivo deste projeto é organizar estratégias práticas para rotinas de estudo.
 
 ### Disciplinas
 
