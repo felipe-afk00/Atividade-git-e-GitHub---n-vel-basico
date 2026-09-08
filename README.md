@@ -10,7 +10,7 @@ Este projeto foi desenvolvido em equipe para a atividade de Design Profissional,
 
 
 
-O objetivo do projeto é organizar informações e estratégias que podem ajudar estudantes a melhorar sua rotina de estudos.
+O objetivo é otimizar o tempo e as táticas de estudo dos alunos de tecnologia.
 
 ### Disciplinas
 
@@ -95,6 +95,4 @@ A utilização do Git e GitHub permite que todos os integrantes trabalhem no mes
 \* Alisson Flosi
 
 \* Henrique Sousa
-
-
 
