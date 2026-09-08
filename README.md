@@ -12,11 +12,11 @@ O objetivo deste projeto é organizar estratégias práticas para rotinas de est
 
 ### Disciplinas
 
-* Português
-* Matemática
-* Inglês
-* Informática
-* Design Profissional
+* **Português**
+* **Matemática**
+* **Inglês**
+* **Informática**
+* **Design** **Profissional**
 
 ### Método de Estudos
 
